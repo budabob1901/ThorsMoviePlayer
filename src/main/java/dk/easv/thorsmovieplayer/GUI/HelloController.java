@@ -1,4 +1,4 @@
-package dk.easv.thorsmovieplayer;
+package dk.easv.thorsmovieplayer.GUI;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

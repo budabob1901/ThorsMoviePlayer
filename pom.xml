@@ -58,7 +58,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>dk.easv.thorsmovieplayer/dk.easv.thorsmovieplayer.HelloApplication</mainClass>
+              <mainClass>dk.easv.thorsmovieplayer/dk.easv.thorsmovieplayer.MoviePlayerApplication</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>
